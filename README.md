@@ -1,11 +1,11 @@
-# 🚗 Car Price Prediction Project
+# Car Price Prediction Project
 
 This project predicts the **selling price of used cars** using Machine Learning.  
 It demonstrates an end-to-end ML pipeline: data preprocessing, train-test splitting, feature selection, model building, and predictions on new data.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - **car data.csv** → Original raw dataset  
 - **car_data_cleaned.csv** → Dataset after cleaning (Car_Age created, Year dropped)  
